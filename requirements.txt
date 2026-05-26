@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-experimental
+langchain-ollama
+sqlalchemy
+pandas
+python-dotenv
+tabulate
+pytest
+
